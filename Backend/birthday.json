@@ -1,0 +1,27 @@
+[
+    {
+    "name": "Creamy ans Crunchy ButterScotch",
+    "price": 800,
+    "description": "asdfgh",
+    "images": "/images/products/1.jpg"
+    },
+    {
+        "name": "White Chocolate Pinata Cake",
+        "price": 800,
+        "description": "asdfgh",
+        "images": "/images/products/1.jpg"
+    },
+    {
+        "name": "Black Chocolate Pinata Cake",
+        "price": 800,
+        "description": "asdfgh",
+        "images":"/images/products/1.jpg"
+    },
+    {
+        "name": "Black Forest",
+        "price": 800,
+        "description": "asdfgh",
+        "image":  "/images/products/1.jpg"
+            
+    }
+]
